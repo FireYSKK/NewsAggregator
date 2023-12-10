@@ -5,7 +5,7 @@
 <br>
 <br>
 <div align="center">
-  <img src="добавить" width="500" height="400">
+  <img src="./architecture.png" width="500" height="400">
 </div>
 <br>
 
